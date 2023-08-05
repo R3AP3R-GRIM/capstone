@@ -1,0 +1,6 @@
+streamlit==1.25.0
+tensor==0.3.6
+transformers==4.31.0
+spacy==3.5.0
+easyocr==1.7.0
+streamlit-option-menu==0.3.6
