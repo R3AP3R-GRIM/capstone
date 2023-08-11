@@ -1,7 +1,7 @@
 import easyocr
 import os
 import spacy
-spacy.cli.download('en_core_web_lg') 
+spacy.cli.download('en_core_web_lg')
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
 from transformers import LongformerTokenizer, LongformerForQuestionAnswering
