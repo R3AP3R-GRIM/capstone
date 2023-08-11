@@ -1,6 +1,7 @@
 streamlit
 tensor
 transformers
-spacy
+spacy>=3.6.0,<3.7.0
+https://github.com/explosion/spacy-models/releases/tag/en_core_web_lg-3.6.0/en_core_web_lg-3.6.0.tar.gz#egg=en_core_web_lg
 easyocr
 streamlit-option-menu
