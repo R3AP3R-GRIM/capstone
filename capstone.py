@@ -1,6 +1,7 @@
 import easyocr
 import os
 import spacy
+import spacy.cli
 spacy.cli.download('en_core_web_lg')
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
