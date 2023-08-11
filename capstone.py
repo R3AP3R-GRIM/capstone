@@ -1,6 +1,3 @@
-import subprocess
-subprocess.run(['/home/adminuser/venv/bin/python', '-m', 'pip', 'install', '--upgrade', 'pip'])
-
 import easyocr
 import os
 import spacy
